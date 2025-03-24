@@ -16,7 +16,7 @@
     <div id="residentiel" class="container p-8 mx-auto px-2 xl:px-10  flex flex-wrap mb-20 lg:gap-10 lg:flex-nowrap container_bottom_to_top_service">
             <div   class="flex items-center justify-center w-full lg:w-1/2 lg:order-1 ">
                 <div class="bottom_to_top_service">
-                  <img src="/public/finance-img.jpg" alt="" srcset="" class="object-fit h-[400px] w-[500px] lg:h-[521px] lg:w-[621px] rounded-2xl">
+                  <img src="/public/finance-img.jpg" alt="" srcset="" class="object-fit h-[400px] w-[500px] lg:h-[421px] lg:w-[521px] rounded-2xl">
 
                 
                 </div>
@@ -51,7 +51,7 @@
         <div id="commercial" class="container p-8 mx-auto px-2 pl-10 max-md:pl-2  flex flex-wrap mb-20 lg:gap-20 lg:flex-nowrap container_bottom_to_top_service_2">
             <div class="flex items-center justify-center w-full lg:w-1/2 lg:bottom_to_top_2 ">
                 <div class="bottom_to_top_service_2">
-                    <img src="/public/img-commercial.png" alt="" srcset="" class="object-fit h-[400px] w-[500px] lg:h-[521px] lg:w-[621px] rounded-2xl bottom_to_top_service">
+                    <img src="/public/img-commercial.png" alt="" srcset="" class="object-fit h-[400px] w-[500px] lg:h-[421px] lg:w-[521px] rounded-2xl bottom_to_top_service">
 
                 </div>
 
@@ -85,7 +85,7 @@
         <div id="finance"  class="container p-8 mx-auto px-2 xl:px-10  flex flex-wrap mb-20 lg:gap-10 lg:flex-nowrap container_bottom_to_top_service_3">
             <div class="flex items-center justify-center w-full lg:w-1/2 lg:order-1 bottom_to_top_2">
                 <div class="bottom_to_top_service_3">
-                  <img src="/public/compatabilite-img.jpg" alt="" srcset="" class="object-fit h-[400px] w-[500px] lg:h-[521px] lg:w-[621px] rounded-2xl bottom_to_top_service">
+                  <img src="/public/compatabilite-img.jpg" alt="" srcset="" class="object-fit h-[400px] w-[500px] lg:h-[421px] lg:w-[521px] rounded-2xl bottom_to_top_service">
 
                 </div>
 

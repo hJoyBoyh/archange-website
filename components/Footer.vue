@@ -18,19 +18,14 @@
                         <NuxtLink to="/" class="hover:underline">Accueil</NuxtLink>
                      
                           </li>
-                          <li class="mb-4">
-                            <NuxtLink to="/about" class="hover:underline">À propos</NuxtLink>
-                        </li> <li class="mb-4">
+                         <li class="mb-4">
                             <NuxtLink to="/services" class="hover:underline">Services</NuxtLink>
-                        </li> <li class="mb-4">
-                            <NuxtLink to="/carrers" class="hover:underline">Carrières</NuxtLink>
-
-                        </li>
+                        </li> 
                         <li class="">
                             <NuxtLink to="/contact" class="hover:underline">Contact</NuxtLink>
 
                         </li>
-                      </ul>
+                      </ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
                   </div>
                   <div>
                       <h2 class="mb-6 text-xl font-bold text-black uppercase ">SERVICES</h2>

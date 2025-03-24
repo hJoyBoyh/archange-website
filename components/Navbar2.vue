@@ -123,10 +123,10 @@ definePageMeta({
 </div> 
     
 
-<div class="fixed w-full flex justify-start z-30 top-10 start-0  h-[120px] bg-[#23ACC4]">
+<div class="fixed w-full flex justify-start z-30 top-10 start-0  h-[100px] 2xl:h-[120px] bg-[#23ACC4]">
 
 <!-- <div class="h-full md:w-2/6 lg:w-3/12 2xl:w-4/12 w-3/6 bg-white rounded-s-full" dir="rtl"></div> -->
-<div class="h-full w-6/12 2xl:w-1/12 xl:w-3/12 md:w-3/12   bg-white rounded-s-full" dir="rtl"></div>
+<div class="h-full w-6/12 2xl:w-1/12 xl:w-2/12 md:w-3/12   bg-white rounded-s-full" dir="rtl"></div>
 </div>
 <!-- <nav class="  fixed w-full z-40 top-10 start-0  h-15">
 
@@ -192,7 +192,7 @@ definePageMeta({
     <div class=" flex flex-wrap w-full items-center justify-between mx-auto  p-4 ">
         <NuxtLink to="/"class="flex items-center space-x-3 rtl:space-x-reverse" :class="[!isActive ? 'opacity-0 duration-700' : 'opacity-100 duration-1000']">
     
-        <img src="/logo-archange.png" class="  h-[100px] " alt="Flowbite Logo">
+        <img src="/logo-archange.png" class=" 2xl:h-[100px] h-[80px] " alt="Flowbite Logo">
         
     
 </NuxtLink>
