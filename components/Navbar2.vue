@@ -115,7 +115,7 @@ definePageMeta({
   
   <a href="tel:+15148856457" class="">&nbsp;438-933-3206 | </a>
  
-  <a href="mailto:polyunion@example.com">&nbsp;archangeproprete@example.com </a>
+  <a href="mailto:info@archangepropreté.ca">&nbsp;info@archangepropreté.ca</a>
   <p class="max-md:hidden">&nbsp;| &nbsp;8h - 20h Du lundi au vendredi | Samedi et Dimanche sur demande</p>
 
 
