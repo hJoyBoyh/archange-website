@@ -113,10 +113,11 @@ definePageMeta({
 <template>
   <div class="  px-10 bg-[#0A6B72] h-10 fixed w-full z-40 top-0 start-0  flex justify-center max-sm:justify-center items-center text-white  text-center text-sm lg:text-lg">
   
-  <a href="tel:+15148856457" class="">&nbsp;438-933-3206 | </a>
- 
-  <a href="mailto:info@archangepropreté.ca">&nbsp;info@archangepropreté.ca</a>
-  <p class="max-md:hidden">&nbsp;| &nbsp;8h - 20h Du lundi au vendredi | Samedi et Dimanche sur demande</p>
+    <a href="tel:+15148856457" class="hover:underline">&nbsp;438-933-3206 | </a>
+    <a href="tel:+15147970335" class="hover:underline">&nbsp;514-797-0335 | </a>
+
+    <a href="mailto:info@archangepropreté.ca" class="hover:underline">&nbsp;info@archangepropreté.ca</a>
+
 
 
 

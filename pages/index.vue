@@ -99,7 +99,10 @@
                         </div>
                         <div class="flex flex-col items-center justify-center  text-white gap-2">
         <p class="font-bold">OU APPELEZ-NOUS DIRECTEMENT.</p>
-        <a href="tel:+15148856457" class="">514-885-6457</a>
+        <a href="tel:+15147970335" class="hover:underline">514-797-0335</a>
+        <p>ou</p>
+        <a href="tel:+14389333206" class="hover:underline">438-933-3206</a>
+
                         </div>
                         
                      </div>
