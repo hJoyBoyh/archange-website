@@ -16,7 +16,7 @@ RÉDUIT LA SALETÉ EN METTANT LA FRAÎCHEUR !
                         Prenez rendez-vous dès aujourd'hui.</p>
                     <div className="flex  items-center justify-center xl:items-start space-y-3 space-x-4 space-y-0  flex-row  bottom_to_top_100">
                         <NuxtLink
-                          to="https://www.setmore.com/fr"
+                          to="/contact"
                          
                           class="text-white bg-[#F34A4F] border-2 border-[#F34A4F] hover:bg-[#2DDBFA]  duration-300  hover:border-white  focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-10 py-5  text-center  ">
                           PRENDRE UN RENDEZ-VOUS

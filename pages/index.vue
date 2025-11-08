@@ -118,11 +118,11 @@
             </div>
 <!-- section services -->
 <div class="mx-2 lg:mx-20  mx-auto flex max-lg:flex-col max-lg:mx-32 max-md:mx-20 max-sm:mx-10 justify-center gap-5 2xl:gap-5 mt-20 container_bottom_to_top_1">
-    <HomeServiceCard title="Nettoyage Bureaux" number="1" link="services/nettoyage-bureaux"/>
-    <HomeServiceCard title="Nettoyage Commercial" number="2"  link="services/nettoyage-commercial"/>
+    <HomeServiceCard title="Nettoyage Bureaux" number="1" link="services"/>
+    <HomeServiceCard title="Nettoyage Commercial" number="2"  link="services"/>
 
-    <HomeServiceCard title="Service de Conciergerie" number="3" link="services/service-conciergerie"/>
-    <HomeServiceCard title="Nettoyage Airbnb" number="4" link="services/nettoyage-airbnb"/>
+    <HomeServiceCard title="Service de Conciergerie" number="3" link="services"/>
+    <HomeServiceCard title="Nettoyage Airbnb" number="4" link="services"/>
 
 </div>
 <!--  -->
@@ -152,12 +152,12 @@
                             Vous recherchez une solution de ménage à domicile à Montréal qui combine qualité et expertise ? Archange Propreté est votre partenaire de confiance pour garder votre maison impeccable. Conscients que chaque foyer a des besoins uniques en matière de nettoyage, nous offrons des services d'entretien ménager résidentiel personnalisés à Montréal et dans les environs.
                         </p>
                         <div className="flex  items-center justify-center xl:items-start space-y-3 space-x-4 space-y-0  flex-row lg:justify-start lg:items-start">
-                            <NuxtLink
+                            <!-- <NuxtLink
                               to="/about"
                               class="text-white bg-[#23ACC4]  duration-300 border-2 border-[#23ACC4] hover:bg-[#2DDBFA] hover:border-black hover:text-black focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-10 py-5  text-center ">
                               EN SAVOIR PLUS
                             </NuxtLink>
-                         
+                          -->
                             
                           </div>
                     </div>
